@@ -1,7 +1,7 @@
 # books
 
--Installed MongoDB [custom mode and without Compass] and made sure the folder c:/data/bin exists.
+*Installed MongoDB [custom mode and without Compass] and made sure the folder c:/data/bin exists.
 
--Opened command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongod. Left it running in the background.
+*Opened command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongod. Left it running in the background.
 
--Cloned the project to my desktop, CD'd into server, ran npm i and then npm start. 
+*Cloned the project to my desktop, CD'd into server, ran npm i and then npm start. 
