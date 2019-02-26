@@ -18,4 +18,4 @@
 
 6. db.collectionname.find({}) - shows all the items in the collection
 
-- Cloned the project to my desktop, CD'd into server, ran npm i and then npm start. 
+- Cloned the project to my desktop, CD'd into server, ran npm i and then npm start. Then CD's into client, ran npm i and then ng serve --open
