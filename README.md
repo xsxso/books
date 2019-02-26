@@ -6,9 +6,9 @@
 
 - Played with Mongo commands: 
 
-1. use dbname, 
+1. use insertdbname
 
-2. show dbname, 
+2. show insertdbname
 
 3. show collections, 
 
