@@ -4,6 +4,8 @@
 
 - Opened command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongod. Left it running in the background.
 
+- Opened another command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongo. Can now play with Mongo commands.
+
 - Played with Mongo commands: 
 
 1. use insertdbname
