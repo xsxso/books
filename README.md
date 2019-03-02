@@ -31,3 +31,17 @@ Then CD's into client
 C:\Users\elis\Desktop\Clone of 4578_25\Full-stack-4578_25\03_Node\Book store - mongo + node + angular\client
 
 ran npm i and then ng serve --open
+
+Installed cURL using these instructions https://develop.zendesk.com/hc/en-us/articles/360001068567-Installing-and-using-cURL
+
+Added C:/curl to Windows global variable
+
+POST of a new user 
+
+curl -v -X POST -H "Content-type: application/json" -d  "{\"firstName\":\"Bob\",\"lastName\": \"Bryce\",\"userName\": \"BobB\",\"password\":\"36bbe50ed96841d10443bcb670d6554f0a34b761be67ec9c4a8ad2c0c44ca42c\"}" localhost:6000/api/users
+
+
+
+
+
+
