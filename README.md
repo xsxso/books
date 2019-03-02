@@ -12,7 +12,7 @@
 
 2. show insertdbname
 
-3. show collections, 
+3. show dbs, show collections
 
 4. db.createCollection("name"), 
 
