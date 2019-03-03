@@ -2,6 +2,8 @@
 
 - Installed MongoDB [custom mode and without Compass] and made sure the folder c:/data/bin exists.
 
+- Installed Angular CLi @ c:\ via npm install -g @angular/cli ran at the command line level. 
+
 - Opened command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongod. Left it running in the background.
 
 - Opened another command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongo. Can now play with Mongo commands.
