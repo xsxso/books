@@ -18,6 +18,10 @@
 
 4. db.createCollection("name"), 
 
+4.1 db.getCollectionNames("user")
+
+[ "books", "users" ]
+
 5. db.collectionname.insert({"key":"value"})
 
 6. db.collectionname.find({}) - shows all the items in the collection
