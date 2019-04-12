@@ -4,11 +4,14 @@
 
 - Installed Angular CLi @ c:\ via npm install -g @angular/cli ran at the command line level. 
 
-- Opened command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongod. Left it running in the background. Can also do it from any place in the OS given thatg it's in the global variables.
+- Opened command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongod. Left it running in the background. (*Can also do it from any place in the OS given that it's in the global variables.*)
 
 - Opened another command prompt, CD'd to C:\Program Files\MongoDB\Server\4.0\bin and ran mongo. Can now play with Mongo commands.
 
-- Ran nodemon index @ C:\Users\elis\Desktop\shoppingProject\server\01_controllers>nodemon index
+- Ran nodemon using C:\Users\elis\Desktop\shoppingProject\server\01_controllers>nodemon index.js
+
+Once nodemon is running I cannot also run the server, it's either this or that, as they both use port 6000.
+
 
 - Played with Mongo commands: 
 
